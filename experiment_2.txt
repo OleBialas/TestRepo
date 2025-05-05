@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 bbb
 aaa
 aaa
-=======
->>>>>>> parent of b77ae95 (Reapply "add data")
